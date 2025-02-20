@@ -296,7 +296,6 @@ footer {
   backdrop-filter: blur(20px);
   border-radius: 10px;
   background-color: rgba(239, 231, 231, 0.06);
-  position: relative;
 }
 #serv2{
   backdrop-filter: blur(20px);
