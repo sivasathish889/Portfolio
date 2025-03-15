@@ -254,7 +254,7 @@ li a:hover{
 
 /* Project */
 .card{
-  width: fit-content;
+  width: max-content;
   
 }
 .card img{
